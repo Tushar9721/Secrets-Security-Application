@@ -6,7 +6,6 @@ const ejs = require("ejs");
 const app = express();
 const mongoose = require("mongoose");
 const bcrypt = require("bcrypt");
-const e = require("express");
 const saltRounds = 10;
 
 app.set("view engine", "ejs");
