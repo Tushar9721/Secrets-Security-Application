@@ -14,7 +14,8 @@
     "express": "^4.17.1",
     "md5": "^2.3.0",
     "mongoose": "^5.9.28",
-    "mongoose-encryption": "^2.0.2"
+    "mongoose-encryption": "^2.0.2",
+    "passport-google-oauth20": "^2.0.0"
   },
   "devDependencies": {},
   "description": ""
